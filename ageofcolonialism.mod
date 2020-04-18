@@ -1,0 +1,15 @@
+version="0.1"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Events"
+	"Fixes"
+	"Gameplay"
+	"Ideologies"
+}
+name="Age Of Colonialism"
+supported_version="1.9.1"
+path="C:/Users/ethen/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ageofcolonialism"
+remote_file_id="2063726514"
