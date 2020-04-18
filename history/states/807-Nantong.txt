@@ -1,0 +1,21 @@
+state={
+	id=807
+	name="STATE_807"
+	provinces={
+		11928 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=town
+		history={
+		owner = SPR
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		
+			}
+			
+		}
+}

@@ -1,0 +1,35 @@
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		587 3444 3547 9522 11435 11470 11494 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=city
+history={
+		owner = GER
+		victory_points = {
+			6469 10 
+		}
+		victory_points = {
+			587 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 0
+			air_base = 0
+
+		}
+		add_core_of = RHD
+		add_core_of = GER
+		1939.1.1 = {
+			buildings = {
+				air_base = 0 }
+
+
+			}
+
+		}
+	}

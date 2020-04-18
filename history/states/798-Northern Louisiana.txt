@@ -1,0 +1,30 @@
+
+state={
+	id=798
+	name="STATE_798"
+state_category = town
+	history={
+		owner = LOU
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			air_base = 0
+			7552 = {
+				naval_base = 0
+
+			}
+
+		}
+		add_core_of = LOU
+		victory_points = {
+			7552 10 
+		}
+
+	}
+
+	provinces={
+		1559 4522 7555 7599 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+}
